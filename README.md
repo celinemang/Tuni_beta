@@ -28,5 +28,5 @@ Our future plans for TUni include fully implementing all planned features and pr
 - React Native
 - VSCode
 
-Feel free to check out our [demo](#https://devpost.com/software/tuni) and contribute to the development of Taste of Uni!
-
+Feel free to check out our [demo](#) and contribute to the development of Taste of Uni!
+https://devpost.com/software/tuni
